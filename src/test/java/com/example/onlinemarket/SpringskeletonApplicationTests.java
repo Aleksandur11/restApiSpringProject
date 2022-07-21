@@ -1,0 +1,11 @@
+package com.example.onlinemarket;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringskeletonApplicationTests {
+
+    @Test
+    void contextLoads() {}
+}
